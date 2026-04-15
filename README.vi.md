@@ -74,6 +74,6 @@ Khi báo lỗi, vui lòng cung cấp:
 Football Pro hoàn toàn miễn phí và được xây dựng với đam mê trong thời gian rảnh.  
 Nếu bạn thích trò chơi và muốn tiếp tục phát triển nó, hãy ủng hộ một ly cà phê nhé! ☕
 
-[![Ủng hộ qua PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/golviral)
+[![Ủng hộ qua PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/paypalme/QuyTang)
 
 Mọi sự ủng hộ dù lớn hay nhỏ đều vô cùng quý giá. Cảm ơn bạn rất nhiều! 🙏

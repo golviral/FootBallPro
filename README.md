@@ -74,6 +74,6 @@ When reporting a bug, please include:
 Football Pro is completely free and built with passion in spare time.  
 If you enjoy it and want to help keep it going, consider buying a coffee! ☕
 
-[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/golviral)
+[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/paypalme/QuyTang)
 
 Every contribution — big or small — is hugely appreciated. Thank you! 🙏

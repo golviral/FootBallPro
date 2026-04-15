@@ -12,14 +12,22 @@ Truy cập trang **[Releases](https://github.com/golviral/FootBallPro/releases/l
 
 | Hệ điều hành | File cần tải |
 |--------------|-------------|
-| 🪟 Windows | `fbgx.exe` (hoặc `fbgx_windows.zip`) |
-| 🐧 Linux | `fbgx.x86_64` (hoặc `fbgx_linux.zip`) |
-| 🍎 macOS | `fbgx.zip` |
+| 🪟 Windows | `FootBallPro.exe` (hoặc `FootBallPro.zip`) |
+| 🐧 Linux | `FootBallPro.x86_64` (hoặc `FootBallPro.zip`) |
+| 🍎 macOS | `FootBallPro.zip` |
 
 **Cách cài đặt:**
 1. Tải file phù hợp với hệ điều hành của bạn.
 2. Giải nén nếu cần.
 3. Chạy trò chơi — không cần cài đặt thêm bất cứ thứ gì!
+
+> **Người dùng macOS:** macOS có thể chặn ứng dụng vì chưa được ký bởi nhà phát triển được xác minh.
+> Nếu bạn thấy thông báo *"cannot be opened because the developer cannot be verified"*, hãy chạy lệnh
+> sau trong Terminal **một lần** sau khi giải nén, rồi mở ứng dụng bình thường:
+> ```bash
+> xattr -d com.apple.quarantine "Football Pro.app"
+> ```
+> Thay `Football Pro.app` bằng đường dẫn thực tế đến ứng dụng nếu nó nằm trong thư mục con.
 
 > **Phiên bản Web:** Football Pro cũng có bản web để chơi trực tiếp trên trình duyệt mà không cần tải về — xem [bản phát hành mới nhất](https://github.com/golviral/FootBallPro/releases/latest) để tải file web.
 

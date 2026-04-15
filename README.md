@@ -12,14 +12,22 @@ Go to the **[Releases page](https://github.com/golviral/FootBallPro/releases/lat
 
 | Platform | File to download |
 |----------|-----------------|
-| 🪟 Windows | `fbgx.exe` (or `fbgx_windows.zip`) |
-| 🐧 Linux | `fbgx.x86_64` (or `fbgx_linux.zip`) |
-| 🍎 macOS | `fbgx.zip` |
+| 🪟 Windows | `FootBallPro.exe` (or `FootBallPro.zip`) |
+| 🐧 Linux | `FootBallPro.x86_64` (or `FootBallPro.zip`) |
+| 🍎 macOS | `FootBallPro.zip` |
 
 **How to install:**
 1. Download the file for your OS above.
 2. Unzip it if needed.
 3. Run the game — no installation required!
+
+> **macOS users:** macOS may block the app because it is not signed by a verified developer.
+> If you see a *"cannot be opened because the developer cannot be verified"* warning, run this
+> command in Terminal **once** after unzipping, then open the app normally:
+> ```bash
+> xattr -d com.apple.quarantine "Football Pro.app"
+> ```
+> Replace `Football Pro.app` with the actual path to the app if it is in a subfolder.
 
 > **Web version:** Football Pro also has a web build you can play directly in your browser without downloading anything — check the [latest release](https://github.com/golviral/FootBallPro/releases/latest) for the web build files.
 

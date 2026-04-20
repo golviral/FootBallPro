@@ -1,4 +1,4 @@
-# ⚽ Football Pro
+# ⚽ Football Uni
 
 A free real-time multiplayer 3D football game built with Godot — download for Windows, Linux, or macOS and play with friends online!
 
@@ -8,13 +8,13 @@ A free real-time multiplayer 3D football game built with Godot — download for 
 
 ## 🎮 Download & Play
 
-Go to the **[Releases page](https://github.com/golviral/FootBallPro/releases/latest)** and download the file for your operating system:
+Go to the **[Releases page](https://github.com/golviral/FootballUni/releases/latest)** and download the file for your operating system:
 
 | Platform | File to download |
 |----------|-----------------|
-| 🪟 Windows | `FootBallPro.exe` (or `FootBallPro.zip`) |
-| 🐧 Linux | `FootBallPro.x86_64` (or `FootBallPro.zip`) |
-| 🍎 macOS | `FootBallPro.zip` |
+| 🪟 Windows | `FootballUni.exe` (or `FootballUni.zip`) |
+| 🐧 Linux | `FootballUni.x86_64` (or `FootballUni.zip`) |
+| 🍎 macOS | `FootballUni.zip` |
 
 **How to install:**
 1. Download the file for your OS above.
@@ -25,11 +25,11 @@ Go to the **[Releases page](https://github.com/golviral/FootBallPro/releases/lat
 > If you see a *"cannot be opened because the developer cannot be verified"* warning, run this
 > command in Terminal **once** after unzipping, then open the app normally:
 > ```bash
-> xattr -d com.apple.quarantine "Football Pro.app"
+> xattr -d com.apple.quarantine "Football Uni.app"
 > ```
-> Replace `Football Pro.app` with the actual path to the app if it is in a subfolder.
+> Replace `Football Uni.app` with the actual path to the app if it is in a subfolder.
 
-> **Web version:** Football Pro also has a web build you can play directly in your browser without downloading anything — check the [latest release](https://github.com/golviral/FootBallPro/releases/latest) for the web build files.
+> **Web version:** Football Uni also has a web build you can play directly in your browser without downloading anything — check the [latest release](https://github.com/golviral/FootballUni/releases/latest) for the web build files.
 
 ---
 
@@ -68,7 +68,7 @@ Use the on-screen joystick to move and the action buttons to shoot, pass, and mo
 
 Found a bug? Have a suggestion? We'd love to hear from you!
 
-👉 **[Open an issue on GitHub](https://github.com/golviral/FootBallPro/issues/new)**
+👉 **[Open an issue on GitHub](https://github.com/golviral/FootballUni/issues/new)**
 
 When reporting a bug, please include:
 - What happened
@@ -79,7 +79,7 @@ When reporting a bug, please include:
 
 ## ❤️ Support the Developer
 
-Football Pro is completely free and built with passion in spare time.  
+Football Uni is completely free and built with passion in spare time.  
 If you enjoy it and want to help keep it going, consider buying a coffee! ☕
 
 [![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/paypalme/QuyTang)
